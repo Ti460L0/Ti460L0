@@ -1,6 +1,6 @@
 ### 👋 Olá, rede! Sou o Tiago
 
-Desenvolvedor Fullstack em transição de carreira — venho de **Arquitetura e Urbanismo** (CAU ativo) e MBA em **Gestão de Projetos**, e hoje curso **Engenharia de Software** (6º período, Estácio).
+Desenvolvedor Fullstack em transição de carreira, venho de **Arquitetura e Urbanismo** (CAU ativo) e MBA em **Gestão de Projetos**, e hoje curso **Engenharia de Software** (6º período, Estácio).
 
 Construo e opero sozinho dois sistemas reais em produção:
 
@@ -13,7 +13,7 @@ Documentação técnica detalhada dos dois projetos: **[portfolio-showcases](htt
 
 ### 🚀 Sobre mim
 
-Uso IA como ferramenta de trabalho para arquitetar soluções e acelerar entregas, mas não terceirizo o raciocínio — entendo o que é gerado e tomo as decisões técnicas do projeto.
+Uso IA como ferramenta de trabalho para arquitetar soluções e acelerar entregas, mas não terceirizo o raciocínio, entendo o que é gerado e tomo as decisões técnicas do projeto.
 
 Busco minha primeira vaga formal como desenvolvedor, preferencialmente remota, com foco em Node.js/NestJS ou fullstack.
 
